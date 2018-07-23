@@ -1,0 +1,17 @@
+{
+    "name": "casa",
+    "description": "Projeto PHP OO",
+    "authors": [
+        {
+            "name": "lucina",
+            "email": "lucianamarques745@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sts\\": "app/sts",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}

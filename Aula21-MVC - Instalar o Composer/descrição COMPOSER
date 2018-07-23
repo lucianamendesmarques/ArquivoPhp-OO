@@ -1,0 +1,14 @@
+namespace Core = 
+atoload = responsável em carrega as classes.
+
+.access = reenderiza para ultilizar rul amigavél i formando o usuario em que parte do site ele está.
+
+
+sera criado outra tabela artigos e inserir os valores.
+inserir mais  linhas no( Continue insertion with ).
+apos listar os artigos.
+
+View e a aparencia para o usuario
+dentro do arquivo core criar uma classe responsavel em carregar
+
+dentro da view criar uma pasta exclusiva para o blog
